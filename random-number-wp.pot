@@ -1,0 +1,59 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Random Number WP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-26 17:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.1; wp-6.7.1\n"
+"X-Domain: random-number-wp"
+
+#. Description of the plugin
+msgid ""
+"A tool to assign random numbers to a list of names and display them in a "
+"sorted list. Use the shortcode [random_number_wp] to display the tool."
+msgstr ""
+
+#: random-number-wp.php:51
+msgid "Enter names (comma-separated):"
+msgstr ""
+
+#: random-number-wp.php:32
+msgid "Invalid input. Only letters, numbers, and commas are allowed."
+msgstr ""
+
+#. Author of the plugin
+msgid "Martin Gräbing"
+msgstr ""
+
+#: random-number-wp.php:31
+msgid "Please enter at least one name."
+msgstr ""
+
+#. Name of the plugin
+#: random-number-wp.php:44
+msgid "Random Number WP"
+msgstr ""
+
+#: random-number-wp.php:33
+msgid "Sorted List:"
+msgstr ""
+
+#: random-number-wp.php:53
+msgid "Start"
+msgstr ""
+
+#: random-number-wp.php:47
+msgid ""
+"This tool assigns a random number to each name you enter. After displaying "
+"the results one by one, it shows a sorted list of names and their numbers in "
+"ascending order. Perfect for games, contests, or team assignments!"
+msgstr ""

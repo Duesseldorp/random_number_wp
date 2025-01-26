@@ -27,7 +27,7 @@
 /* Explanation Box Styling */
 .rnw-explanation-box {
     background-color: #f9f9f9;
-    border-left: 4px solid #000;
+    border-left: 4px solid #202021f0;
     border-radius: 4px;
     padding: 15px;
     margin-bottom: 20px;
@@ -67,7 +67,7 @@
 
 #rnw-form button {
     padding: 12px 20px;
-    background-color: #000;
+    background-color: #202021f0;
     color: #fff;
     border: none;
     border-radius: 6px;
@@ -90,7 +90,7 @@
     margin: 10px 0;
     padding: 10px;
     background-color: #f9f9f9;
-    border-left: 4px solid #000;
+    border-left: 4px solid #202021f0;
     border-radius: 4px;
     font-size: 16px;
     color: #333;
