@@ -15,7 +15,7 @@
 ## **Installation**
 
 1. **Download the Plugin**:
-   - Download the plugin files from the [GitHub repository](https://github.com/duesseldorp/random-number-wp).
+   - Download the plugin files from the [GitHub repository](https://github.com/Duesseldorp/random_number_wp/).
 
 2. **Upload to WordPress**:
    - Go to **Plugins > Add New > Upload Plugin** in your WordPress admin dashboard.
