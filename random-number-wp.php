@@ -41,7 +41,7 @@ function rnw_shortcode() {
     ob_start(); // Start output buffering
     ?>
     <div class="rnw-container">
-        <h1><?php echo esc_html__('Random Number WP', 'random-number-wp'); ?></h1>
+        <h1 class="rnw-heading"><?php echo esc_html__('Random Number WP', 'random-number-wp'); ?></h1>
         <div class="rnw-explanation-box">
             <p>
                 <?php echo esc_html__('This tool assigns a random number to each name you enter. After displaying the results one by one, it shows a sorted list of names and their numbers in ascending order. Perfect for games, contests, or team assignments!', 'random-number-wp'); ?>
