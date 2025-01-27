@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Random Number WP\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-26 17:34+0000\n"
-"PO-Revision-Date: 2025-01-26 17:59+0000\n"
+"PO-Revision-Date: 2025-01-27 12:30+0000\n"
 "Last-Translator: Martin Gräbing\n"
 "Language-Team: Deutsch\n"
 "Language: de_DE\n"
@@ -26,7 +26,7 @@ msgstr ""
 
 #: random-number-wp.php:51
 msgid "Enter names (comma-separated):"
-msgstr "Namen (Komma getrennt)"
+msgstr "Namen (Komma getrennt):"
 
 #: random-number-wp.php:32
 msgid "Invalid input. Only letters, numbers, and commas are allowed."
